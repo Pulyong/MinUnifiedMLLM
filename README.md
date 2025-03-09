@@ -4,4 +4,5 @@ This repo include Visual Tokenizer & MLLM training code
 
 # ToDo
 * Visual Tokenizer  
--[ ] VQ-VAE
+  - [ ] VQ-VAE
+  - [ ] VQ-GAN
